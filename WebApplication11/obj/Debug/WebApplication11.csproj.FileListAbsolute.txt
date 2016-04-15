@@ -1,0 +1,7 @@
+c:\users\tvrnak\documents\visual studio 2012\Projects\WebApplication11\WebApplication11\obj\Debug\WebApplication11.csprojResolveAssemblyReference.cache
+c:\users\tvrnak\documents\visual studio 2012\Projects\WebApplication11\WebApplication11\bin\WebApplication11.dll
+c:\users\tvrnak\documents\visual studio 2012\Projects\WebApplication11\WebApplication11\bin\WebApplication11.pdb
+c:\users\tvrnak\documents\visual studio 2012\Projects\WebApplication11\WebApplication11\bin\EntityFramework.dll
+c:\users\tvrnak\documents\visual studio 2012\Projects\WebApplication11\WebApplication11\bin\EntityFramework.xml
+c:\users\tvrnak\documents\visual studio 2012\Projects\WebApplication11\WebApplication11\obj\Debug\WebApplication11.dll
+c:\users\tvrnak\documents\visual studio 2012\Projects\WebApplication11\WebApplication11\obj\Debug\WebApplication11.pdb
